@@ -1,0 +1,26 @@
+{
+    "posts":[
+        {
+            "id": 1,
+            "title": "1",
+            "body": "fjas;lf;aslfalsjfs jkdfajsdaflk;asf;sa lkfsasklfasjkl;fasdkl;f",
+            "tags": [
+                "webdev",
+                "coding",
+                "news"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "2",
+            "body": "fjas;lf;a    asf;sa lkfsasklfasjkl;fasdkl;f slfalsjfs jkdfajsdaflk;",
+            "tags": [
+                "css",
+                "webdev",
+                "coding"
+            ]
+        }
+
+    ]
+
+}
